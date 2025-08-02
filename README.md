@@ -1,4 +1,5 @@
 🧑‍💻 Personal Portfolio Website
+Hosted on netlify via link https://cyruskariuki.netlify.app/
 
 Welcome to my personal developer portfolio!
 This project showcases who I am, what I build, and where I’m heading in my web development journey. It’s built using HTML, CSS, and includes responsive sections for About, Projects, Education, Skills, and Contact.
